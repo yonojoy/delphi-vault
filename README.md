@@ -1,10 +1,11 @@
 Delphi-Vault Windows Service Manager
 ===
-Standalone [Delphi unit](/tree/master/Source/DelphiVault.Windows.ServiceManager.pas) to access and manage windows services.
+Standalone [Delphi unit](/Source/DelphiVault.Windows.ServiceManager.pas) to access and manage windows services.
 
 Status
 ---
-* [Example code](/tree/master/Examples/Windows%20Service%20Manager) available 
+* Working (Tested with Delphi XE3)
+* [Example code](/Examples/Windows%20Service%20Manager) available 
 
 References
 ---
